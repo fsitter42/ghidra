@@ -1,0 +1,35 @@
+Create a new project:
+	click File -> new project
+	select a folder and a name
+	
+Import a binary into it:
+	drag and drop or,
+	import file > choose a file
+	choose a language to interprete
+	
+Start ghidra analysis:
+	click on the green dragon
+	
+Inside analysis:
+	File -> Open -> choose
+	
+Find strings in the file:
+	Window -> Defined strings
+	find something click on it
+	
+See pseudo c code:
+	Windows -> decompiler
+	
+If you want to change something:
+	click on the pseudocode to get to the location in the hexfile
+	rightclick -> patch instruction
+	change to the instruction that you want
+	
+export the changed file:
+	File -> export file
+	Format -> original file
+	choose a name 
+	chmod +x and run it
+	
+
+
