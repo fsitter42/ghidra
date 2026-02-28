@@ -1,0 +1,4 @@
+to create binaries without helpful data compile a c-file and strip it this way:
+
+	gcc vault.c -o vault
+	strip --strip-all vault
