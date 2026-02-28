@@ -1,6 +1,6 @@
 **how to install ghidra on ubuntu**
 
-run:
+to install java install:
 	sudo apt update
 	sudo apt install openjdk-21-jdk
 
